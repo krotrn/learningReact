@@ -1,5 +1,3 @@
-Here's an enhanced and more structured version of your README:
-
 ---
 
 # learningReact
@@ -31,10 +29,9 @@ npm install
 To run the project locally, use the following command:
 
 ```bash
-npm start
+npm run dev
 ```
 
-This will start the development server, and you can view the project in your browser by navigating to [http://localhost:3000](http://localhost:3000).
 
 ## Features
 - **Comprehensive React component examples**: Demonstrating both functional and class-based components.
@@ -43,22 +40,6 @@ This will start the development server, and you can view the project in your bro
 - **API integration examples**: Fetch data from external APIs and display it in the UI.
 - **Project structure**: Organized for scalability and maintainability, with separate directories for components, pages, and utilities.
 
-## Folder Structure
-Here's an overview of the folder structure for better understanding:
-
-```
-learningReact/
-├── public/
-├── src/
-│   ├── components/       # Reusable components
-│   ├── pages/            # Page components for routing
-│   ├── hooks/            # Custom hooks
-│   ├── utils/            # Helper functions
-│   ├── App.js            # Root component
-│   └── index.js          # Entry point of the app
-├── package.json
-└── README.md
-```
 
 ## Contributing
 Contributions are welcome! To contribute:
@@ -73,10 +54,3 @@ Contributions are welcome! To contribute:
 This project is licensed under the [MIT License](./LICENSE).
 
 ---
-
-This enhanced version includes:
-
-1. **Prerequisites**: Mentioned Node.js and npm.
-2. **Folder Structure**: Provides insight into how the project is organized.
-3. **Improved Readability**: Commands and sections are well separated.
-4. **Contributing Guide**: More detailed steps for contributing.
