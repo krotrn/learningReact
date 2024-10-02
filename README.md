@@ -1,5 +1,3 @@
-Here's an enhanced and more structured version of your README:
-
 ---
 
 # learningReact
